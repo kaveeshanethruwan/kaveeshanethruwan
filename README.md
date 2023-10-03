@@ -3,5 +3,5 @@
 
 - 🌱 Hey I'm Kaveesha
 - 💻 Software Engineer (Full Stack) [@insighture](https://www.insighture.com/), in Colombo, Sri lanka
-- 🔧 I build with: `React` `NodeJs` `AWS`  `Serverless` `JavaScript` `Redux` `Saga` `AntDesign` `Tailwind` ...
+- 🔧 I build with: `React.js` `Node.js` `AWS`  `Serverless` `JavaScript` `Redux` `Saga` `AntDesign` `Tailwind` ...
 - 🚀 I enjoy aviation, photography, videography, reading and playing games :)
